@@ -15,3 +15,4 @@ The goal is not only to present my CV, but to demonstrate a practical use case o
 ## Demo
 
 Coming soon.
+Demo: [Talk to my AI Voice CV Agent](https://elevenlabs.io/app/talk-to?agent_id=agent_3101kwj48dygfcvtata0epnsezjw&branch_id=agtbrch_8001kwj48evye24sacq4tx2kr2kg)
